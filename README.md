@@ -1,6 +1,6 @@
 # README
 
-This repository is an internal Biomass Controls repository for development of Key Performance Indicators (KPIs) for the Biogenic Refinery. 
+This repository contains apps built with the [Shiny R package](https://shiny.rstudio.com/) and for deployment on [shinyapps.io](https://www.shinyapps.io/).  
 
 ## License
 
